@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "host": "localhost",
+        "user":  "root",
+        "password" :  "pranav",
+        "database": "WhatsAppDB",
+        "driver": "mysql",
+        "multipleStatements": true 
+    },
+
+    "prod": {
+        "host": "localhost",
+        "driver": "mysql",
+        "user": "root",
+        "password": "1234567890",
+        "database": "WhatsAppDB",
+        "multipleStatements": true
+    }
+
+}
